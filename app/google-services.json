@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963086745696",
+    "firebase_url": "https://study-buddies-tam.firebaseio.com",
+    "project_id": "study-buddies-tam",
+    "storage_bucket": "study-buddies-tam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963086745696:android:48c33ac167baf8d7",
+        "android_client_info": {
+          "package_name": "com.example.studybuddies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963086745696-0au898peqnlbvrabl3r1cul8bjh47k87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studybuddies",
+            "certificate_hash": "cf023aeaeac2a8c29b26a8418aca8b52ced7abf9"
+          }
+        },
+        {
+          "client_id": "963086745696-jb62d9p3nes4lsfukdahe28vpaaj8nd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWiU_0HmPthsLaL8HZJUunvDXwwlNq5TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963086745696-jb62d9p3nes4lsfukdahe28vpaaj8nd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
